@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "灰雾与红"
-  avatar           : "profile.png"
+  avatar           : "https://s2.loli.net/2023/07/07/ZsnDVTzvol249fk.jpg"
   bio              : "鸽子，还在学技术，计院苦命人"
   location         : "北京"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  B站主页           : "https://space.bilibili.com/669455014?spm_id_from=333.1007.0.0"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
