@@ -270,7 +270,7 @@ it-IT:
 # --------------
 cn: &DEFAULT_CN
   page                       : "页面"
-  pagination_previous        : "Previous"
+  pagination_previous        : "前一个"
   pagination_next            : "下一个"
   breadcrumb_home_label      : "主页"
   breadcrumb_separator       : "/"
